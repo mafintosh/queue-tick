@@ -1,6 +1,6 @@
 {
   "name": "queue-tick",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Next tick shim that prefers process.nextTick over queueMicrotask for compat",
   "main": "./process-next-tick.js",
   "browser": "./queue-microtask.js",
