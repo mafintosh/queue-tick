@@ -8,7 +8,7 @@ npm install queue-tick
 
 ## Usage
 
-``` js
+```js
 const queueTick = require('queue-tick')
 
 // in Node it uses process.nextTick, in browsers it uses queueMicrotask
